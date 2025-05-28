@@ -1,0 +1,8 @@
+﻿  Project 3 - Bank.cpp
+C:\Users\muaz3\OneDrive\Masaüstü\Programming Advices\Project 3 - Bank\Project 3 - Bank\Project 3 - Bank.cpp(94,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\muaz3\OneDrive\Masaüstü\Programming Advices\Project 3 - Bank\Project 3 - Bank\Project 3 - Bank.cpp(492,10): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\muaz3\OneDrive\Masaüstü\Programming Advices\Project 3 - Bank\Project 3 - Bank\Project 3 - Bank.cpp(553,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\muaz3\OneDrive\Masaüstü\Programming Advices\Project 3 - Bank\Project 3 - Bank\Project 3 - Bank.cpp(360,1): warning C4715: 'deleteClientByAccountNumber': not all control paths return a value
+C:\Users\muaz3\OneDrive\Masaüstü\Programming Advices\Project 3 - Bank\Project 3 - Bank\Project 3 - Bank.cpp(462,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\muaz3\OneDrive\Masaüstü\Programming Advices\Project 3 - Bank\Project 3 - Bank\Project 3 - Bank.cpp(424,1): warning C4715: 'updateClientByAccountNumber': not all control paths return a value
+  Project 3 - Bank.vcxproj -> C:\Users\muaz3\OneDrive\Masaüstü\Programming Advices\Project 3 - Bank\x64\Debug\Project 3 - Bank.exe
